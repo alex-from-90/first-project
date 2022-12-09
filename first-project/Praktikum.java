@@ -1,1 +1,3 @@
-public static void main(String[] args) { }
+class practikum {
+public static void main(String[] args) {}
+}
